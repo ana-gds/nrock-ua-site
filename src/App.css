@@ -1,7 +1,7 @@
 /* Texto */
 
 .titulo-1 {
-  font-size: 238px;
+  font-size: 160px;
   color: #D82E48;
   font-family: "Koulen", sans-serif;
   font-weight: 400;
@@ -83,6 +83,14 @@
     font-size: 20px;
     font-family: "JetBrains Mono", monospace;
     font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.titulo-nrock {
+    font-size: 200px;
+    color: #F4F4F4;
+    font-family: "Koulen", sans-serif;
     font-weight: 400;
     font-style: normal;
 }
